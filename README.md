@@ -6,13 +6,13 @@
 
 ## 😎 Credit
 
-🥳 Credit Goes To [Tushar](https://t.me/newstudent1885)
+🥳 Credit Goes To [GOLU](https://t.me/Jatts_mehkma)
 
   
 ## 🔥 Commands
 
 - **`/start2`**: ⚡ check bot is alive.
-- **`/tushar2` or `upload2`**:  📁 upload txt file.
+- **`/upload2`**:  📁 upload txt file.
 - **`/stop2`**: 🛑 stop ongoing process.
 - **`/restart2`**: 🔮 restart the bot.
 - **`/sudo add`**: 🎊 add user or group or channel (owner).
